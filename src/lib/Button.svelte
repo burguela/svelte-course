@@ -4,8 +4,6 @@
 	export let bgColor = 'inherit';
 	export let textColor = 'inherit';
 
-	console.log($$restProps);
-
 	let isLeftHovered;
 </script>
 
